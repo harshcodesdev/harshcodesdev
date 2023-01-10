@@ -1,4 +1,3 @@
-<a href="https://app.daily.dev/hdeep61034"><img src="https://api.daily.dev/devcards/81a90824da124c7783c99b80abefccd8.png?r=66v" width="400" alt="Harsh Deep's Dev Card"/></a>
 <img src="https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif" alt="harshdeep61034" />
 <h1 align="center">Hi 👋, I'm Harsh Deep</h1>
 <h3 align="center">A passionate aspiring fullstack developer from India</h3>
@@ -37,3 +36,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshdeep61034&show_icons=true&locale=en" alt="harshdeep61034" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshdeep61034&" alt="harshdeep61034" /></p>
+<a href="https://app.daily.dev/hdeep61034"><img src="https://api.daily.dev/devcards/81a90824da124c7783c99b80abefccd8.png?r=66v" width="400" alt="Harsh Deep's Dev Card"/></a>
