@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshdeep61034&label=Profile%20views&color=0e75b6&style=flat" alt="harshdeep61034" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshdeep61034" alt="harshdeep61034" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HarshDeep61034" alt="HarshDeep61034" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/HarshDeep61034" target="blank"><img src="https://img.shields.io/twitter/follow/hdeep61034?logo=twitter&style=for-the-badge" alt="hdeep61034" /></a> </p>
+<p align="left"> <a href="https://twitter.com/HarshDeep61034" target="blank"><img src="https://img.shields.io/twitter/follow/HarshDeep61034?logo=twitter&style=for-the-badge" alt="HarshDeep61034" /></a> </p>
 
 - 🔭 I’m currently working on [Linkfree](https://github.com/EddieHubCommunity/LinkFree)
 
