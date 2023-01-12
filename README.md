@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif" alt="harshdeep61034" />
+<img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="harshdeep61034" />
 <h1 align="center">Hi 👋, I'm Harsh Deep</h1>
 <h3 align="center">A passionate aspiring fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/720/1*IRGHmiGsa16stedQvIaZfw.gif">
