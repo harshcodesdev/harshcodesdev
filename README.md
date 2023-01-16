@@ -1,6 +1,6 @@
 <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="harshdeep61034" />
 <h1 align="center">Hi 👋, I'm Harsh Deep</h1>
-<h3 align="center">A passionate aspiring fullstack developer from India</h3>
+<h3 align="center">A aspiring fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/720/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshdeep61034&label=Profile%20views&color=0e75b6&style=flat" alt="harshdeep61034" /> </p>
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **hdeep61034@gmail.com**
 
-- 📄 Know about my experiences [Coming Soon](Coming Soon)
+- 📄 Know about my experiences (Coming Soon)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
