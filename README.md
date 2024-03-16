@@ -6,8 +6,8 @@
 
 ## 💻 About Me
 
-* 🔭 A passionate web developer from india.
-* 🔥 I am currently Learning Backend and Cloud stuff.
+* 🔭 A passionate Full Stack web developer from india.
+* 🔥 I am currently Learning Devops & Web 3 stuff.
 * 😎 I like to contribute to Open Source Projects and Build some Interesting 
    projects to improve my Skills.
 * ⚡ I love to play with Linux.
